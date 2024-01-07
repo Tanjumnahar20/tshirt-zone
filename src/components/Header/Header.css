@@ -1,3 +1,16 @@
 .header a{
     margin-right: 10px;
+    text-decoration: none;
+    
+    
+}
+.header{
+    justify-content: end;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.header a:hover{
+    color: blue;
 }
